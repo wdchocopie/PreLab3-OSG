@@ -24,3 +24,8 @@
 ![image](https://github.com/user-attachments/assets/38b92034-77d1-4bf2-9d80-2b9748405f3e)
 
 ![image](https://github.com/user-attachments/assets/2ffff92e-1dd1-44b4-9ed8-ad4c50981cb8)
+
+-   **`command > /dev/null`**: Discard standard output.
+-   **`command 2> /dev/null`**: Discard error messages.
+-   **`command > /dev/null 2>&1`**: Discard both output and error messages.
+-   **`command < /dev/null`**: Run a command without any input.
